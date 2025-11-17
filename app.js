@@ -1,7 +1,6 @@
 // if (process.env.NODE_ENV !== 'production') {
 //   require('dotenv').config();
 // }
-// npm install connect-mongo@3.2.0
 require('dotenv').config();
 
 const express = require('express');
